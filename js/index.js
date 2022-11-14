@@ -1,6 +1,6 @@
 import * as me from 'https://esm.run/melonjs';
 import resources from './resources.js';
-import PlayerEntity from './entities/entities.js';
+import PlayerEntity from './entities/player.js';
 import PlayScreen from './screens/play.js';
 
 
